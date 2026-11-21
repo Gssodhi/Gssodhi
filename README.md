@@ -18,9 +18,9 @@ I'm a software developer focused on **backend and cloud systems**, working towar
 
 ### Tech I work with
 
-**Languages:** Python · JavaScript · C · C++
-**Backend:** Flask · Django REST Framework · Node.js / Express · REST · WebSockets
-**Cloud & DevOps:** AWS (EC2, S3, DynamoDB, Cognito, ECR, ECS) · Docker · GitHub Actions
-**Data:** PostgreSQL · MySQL · DynamoDB · Redis
-**Testing:** Pytest · Jest · Hurl
-**Frontend:** React · Next.js
+- **Languages:** Python · JavaScript · C · C++
+- **Backend:** Flask · Django REST Framework · Node.js / Express · REST · WebSockets
+- **Cloud & DevOps:** AWS (EC2, S3, DynamoDB, Cognito, ECR, ECS) · Docker · GitHub Actions
+- **Data:** PostgreSQL · MySQL · DynamoDB · Redis
+- **Testing:** Pytest · Jest · Hurl
+- **Frontend:** React · Next.js
